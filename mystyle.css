@@ -1,0 +1,62 @@
+@charset "utf-8";
+.words {
+  height: 95px;
+  background-color: #EEF1B6;
+  text-align: center;
+  line-height: 95px;
+  color: #949091;
+  font-size: xx-large;
+}
+.p1 {
+  height: 250px;
+  background-image: url(素材/台北・台北市立圖書館北投分館/taipei01.jpg);
+  background-position: center center;
+  background-size: cover;
+}
+.p2 {
+  height: 250px;
+  background-position: center center;
+  background-size: cover;
+  background-image: url(素材/巴黎國立圖書館/paris02.jpg);
+}
+.p3 {
+  height: 250px;
+  background-image: url(素材/國際兒童圖書館/japan02.jpg);
+  background-position: center center;
+  background-size: cover;
+}
+.p4 {
+  height: 250px;
+  background-image: url(素材/都柏林聖三一學院圖書館/england02.jpg);
+  background-position: center center;
+  background-size: cover;
+}
+.p5 {
+  height: 250px;
+  background-image: url(素材/非洲塔博·姆貝基總統圖書館/africa02.jpg);
+  background-position: center center;
+  background-size: cover;
+}
+.p6 {
+  background-image: url(素材/維多利亞州立圖書館/europe02.jpg);
+  height: 125px;
+  background-position: center center;
+  background-size: cover;
+}
+.p9 {
+  height: 175px;
+  background-image: url(素材/維多利亞州立圖書館/europe01.jpg);
+  background-position: center center;
+  background-size: cover;
+}
+.p8 {
+  height: 300px;
+  background-image: url(素材/紐約公共圖書館/new%20york02.JPG);
+  background-position: center center;
+  background-size: cover;
+}.p7 {
+  background-image: url(素材/美國巴爾的摩約翰霍普金斯大學喬治皮博迪圖書館/america%2002.jfif);
+  height: 300px;
+  background-position: center center;
+  background-size: cover;
+}
